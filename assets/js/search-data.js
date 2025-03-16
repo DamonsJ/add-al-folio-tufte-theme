@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/al-folio/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-tufte-style-jekyll-blog",
+      
+        title: "Tufte-style Jekyll blog",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/al-folio/blog/2025/tufte-style-jekyll-blog/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
